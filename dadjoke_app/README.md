@@ -14,7 +14,7 @@ To use Gemini in Visual Studio Code, you first need to install the extension and
 
 1.  **Install the Extension:** Open the **Extensions** view in VSCode (you can use the shortcut `Ctrl+Shift+X` or `Cmd+Shift+X`). In the search bar, type `Gemini` and look for the extension published by `Google`. Click the **Install** button.
 2.  **Sign In:** After installation, you will need to sign in to your Google account. A prompt may appear automatically, or you can open the Gemini chat view from the activity bar on the left and click the "Sign In" button. You will need a personal Google account to use the Gemini agent.
-3.  **Start Chatting:** Once you are signed in, you can start interacting with Gemini. For this lesson, we will be using the agent capabilities, which allow Gemini to perform actions on your behalf.
+3.  **Start Chatting:** Once you are signed in, you can start interacting with Gemini. For this lesson, we will be using the agent capabilities, which allow Gemini to perform actions on your behalf.  Note you may need to click "preview" in the chat bar to enable the agent capabilities.
 
 ### 2. Using the Agent Preview
 
