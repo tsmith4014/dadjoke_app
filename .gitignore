@@ -1,0 +1,4 @@
+# Trunk local tooling
+.trunk/
+!.trunk/trunk.yaml
+!.trunk/trunk.lock
